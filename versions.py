@@ -1,4 +1,4 @@
-#This is my first script <MEH -- March 22, 2019>
+#This is my first script <MEHV -- March 22, 2019>
 import scipy
 print('scipy: %s' % scipy.__version__)
 # numpy

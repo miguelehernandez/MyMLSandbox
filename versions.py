@@ -1,3 +1,4 @@
+#This is my first script <MH -- March 22, 2019
 import scipy
 print('scipy: %s' % scipy.__version__)
 # numpy
